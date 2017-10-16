@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/zhaoyongliang/workspace/myandroid/ALHotFixDemo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9c42bc2db1116dbd647be2b361ccecc6002f2ffd">
+        <dex dex="/Users/zhaoyongliang/workspace/myandroid/ALHotFixDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_fd57dd291211ec69e20715bf73adad41f4c51fbc/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaoyongliang/.android/build-cache/92f4e384e921b9bfc44b541ef217e1766776da58/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="04aa9eaf9ae119dee1d16533d938cdeb65f0f5b6">
+        <dex dex="/Users/zhaoyongliang/workspace/myandroid/ALHotFixDemo/app/build/intermediates/pre-dexed/release/classes_6a4656398ddba0e920611256c657c31b3a29b1ef.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhaoyongliang/.gradle/caches/modules-2/files-2.1/com.aliyun.ams/alicloud-android-utdid/1.1.5.3/989c3bb13060da1e3154bfe00236f76453a2725f/alicloud-android-utdid-1.1.5.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="989c3bb13060da1e3154bfe00236f76453a2725f">
+        <dex dex="/Users/zhaoyongliang/workspace/myandroid/ALHotFixDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/alicloud-android-utdid-1.1.5.3_6eef19bd9754c2fce45950f7ea34725926e0b547/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaoyongliang/workspace/myandroid/ALHotFixDemo/OtherTools/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b76738de19a3ef1e6af53fd730a8161f44d01cba">
+        <dex dex="/Users/zhaoyongliang/workspace/myandroid/ALHotFixDemo/app/build/intermediates/pre-dexed/release/classes_5c4c11b58431f8dca3610f2bfd7a18fb7c98a27a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhaoyongliang/workspace/myandroid/ALHotFixDemo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/zhaoyongliang/workspace/myandroid/ALHotFixDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4131e9d44bdf08db8bd094e80f17e7a96ed6564e/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaoyongliang/.gradle/caches/modules-2/files-2.1/com.aliyun.ams/alicloud-android-utils/1.0.3/626735e82687be89e3ba1ac481540fcab031c/alicloud-android-utils-1.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="000626735e82687be89e3ba1ac481540fcab031c">
+        <dex dex="/Users/zhaoyongliang/workspace/myandroid/ALHotFixDemo/app/build/intermediates/pre-dexed/release/alicloud-android-utils-1.0.3_4f653c25083d87f931ffd948a722306c3b3c2b01.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhaoyongliang/.gradle/caches/modules-2/files-2.1/com.aliyun.ams/alicloud-android-utils/1.0.3/626735e82687be89e3ba1ac481540fcab031c/alicloud-android-utils-1.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="000626735e82687be89e3ba1ac481540fcab031c">
+        <dex dex="/Users/zhaoyongliang/workspace/myandroid/ALHotFixDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/alicloud-android-utils-1.0.3_4f653c25083d87f931ffd948a722306c3b3c2b01/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaoyongliang/.gradle/caches/modules-2/files-2.1/com.aliyun.ams/alicloud-android-utdid/1.1.5.3/989c3bb13060da1e3154bfe00236f76453a2725f/alicloud-android-utdid-1.1.5.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="989c3bb13060da1e3154bfe00236f76453a2725f">
+        <dex dex="/Users/zhaoyongliang/workspace/myandroid/ALHotFixDemo/app/build/intermediates/pre-dexed/release/alicloud-android-utdid-1.1.5.3_6eef19bd9754c2fce45950f7ea34725926e0b547.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhaoyongliang/.android/build-cache/92f4e384e921b9bfc44b541ef217e1766776da58/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="04aa9eaf9ae119dee1d16533d938cdeb65f0f5b6">
+        <dex dex="/Users/zhaoyongliang/workspace/myandroid/ALHotFixDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6a4656398ddba0e920611256c657c31b3a29b1ef/classes.dex" />
+    </item>
+
+</items>

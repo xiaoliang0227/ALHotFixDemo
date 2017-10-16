@@ -1,0 +1,7 @@
+#Mon Oct 16 15:00:58 CST 2017
+base.0=/Users/zhaoyongliang/workspace/myandroid/ALHotFixDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4131e9d44bdf08db8bd094e80f17e7a96ed6564e
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/zhaoyongliang/workspace/myandroid/ALHotFixDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_fd57dd291211ec69e20715bf73adad41f4c51fbc/classes.dex
+base.1=/Users/zhaoyongliang/workspace/myandroid/ALHotFixDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_fd57dd291211ec69e20715bf73adad41f4c51fbc
+file.0=/Users/zhaoyongliang/workspace/myandroid/ALHotFixDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4131e9d44bdf08db8bd094e80f17e7a96ed6564e/classes.dex

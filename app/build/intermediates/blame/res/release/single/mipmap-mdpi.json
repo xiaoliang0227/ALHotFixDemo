@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/zhaoyongliang/workspace/myandroid/ALHotFixDemo/app/build/intermediates/res/merged/release/mipmap-mdpi/ic_launcher.png",
+        "source": "/Users/zhaoyongliang/workspace/myandroid/ALHotFixDemo/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/zhaoyongliang/workspace/myandroid/ALHotFixDemo/app/build/intermediates/res/merged/release/mipmap-mdpi/ic_launcher_round.png",
+        "source": "/Users/zhaoyongliang/workspace/myandroid/ALHotFixDemo/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    }
+]
